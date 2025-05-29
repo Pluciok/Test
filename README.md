@@ -15,6 +15,7 @@
     2. [x] Git commit - pierwsze zmiany w repozytorium  
     3. [x] Markdown - Plik README.md
     4. [x] gitignore
+    5. [x] New Branch
 
 ## Kursy
 
