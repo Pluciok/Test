@@ -13,7 +13,8 @@
 3. [x]  Git must know  
     1. [x] Pierwszy projekt GitHub i git clone  
     2. [x] Git commit - pierwsze zmiany w repozytorium  
-    3. [ ] Markdown - Plik README.md
+    3. [x] Markdown - Plik README.md
+    4. [x] gitignore
 
 ## Kursy
 
