@@ -16,6 +16,8 @@
     3. [x] Markdown - Plik README.md
     4. [x] gitignore
     5. [x] New Branch
+    6. [x] Używanie tagów
+    7. [x] Git pull i commit
 
 ## Kursy
 
