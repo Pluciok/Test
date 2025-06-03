@@ -18,6 +18,7 @@
     5. [x] New Branch
     6. [x] Używanie tagów
     7. [x] Git pull i commit
+    8. [x] Merging Branches
 
 ## Kursy
 
