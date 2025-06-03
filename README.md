@@ -19,6 +19,8 @@
     6. [x] Używanie tagów
     7. [x] Git pull i commit
     8. [x] Merging Branches
+4. [] Nowy Temat
+    1. [x] Force Push
 
 ## Kursy
 
